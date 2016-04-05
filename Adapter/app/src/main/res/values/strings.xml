@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adapter</string>
+    <string name="delete">delete</string>
+    <string name="remove">移出</string>
+</resources>
